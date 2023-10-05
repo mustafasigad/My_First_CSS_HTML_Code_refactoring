@@ -3,7 +3,7 @@
 # Refactoring HTML and CSS Readme
 
 ## Description
-This repository contains an example of refactoring HTML and CSS code. The original code was using the `<div>` tag excessively and had instances where both class and ID elements were used together, even when the ID was not declared in the CSS file. This violated HTML semantic guidelines and led to poor code readability and organization. The code was refactored to address these issues and improve overall code quality.
+This repository contains an example of refactoring HTML and CSS code. The original code was using the `<div>` tag excessively.  The code was refactored to address these issues and improve overall code quality.
 
 ## Technologies
 - HTML
